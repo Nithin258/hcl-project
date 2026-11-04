@@ -86,6 +86,7 @@ def load_config():
     config = {
         "OLLAMA_BASE_URL": "http://localhost:11434",
         "OLLAMA_MODEL": "llama3.2",
+        "OLLAMA_EMBED_MODEL": "nomic-embed-text",
     }
     env_path = Path(__file__).with_name(".env")
 
