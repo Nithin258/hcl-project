@@ -1,4 +1,4 @@
-# HCL NLP Chatbot
+# NLP Chatbot
 
 A step-by-step NLP chatbot project. The terminal chatbot connects to Ollama and
 demonstrates tokenization, lowercasing, stopword removal, stemming, and
